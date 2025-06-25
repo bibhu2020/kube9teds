@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--{repo}--{owner}.aem.page/  --> https://main--kube9teds--bibhu2020.aem.page/
+- Live: https://main--{repo}--{owner}.aem.live/ --> https://main--kube9teds--bibhu2020.aem.live/
 
 ## Documentation
 
